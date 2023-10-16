@@ -29876,3 +29876,47 @@ body.dark {
   color: rgba(255, 255, 255, 0.4);
   background-color: rgba(0, 0, 0, 0.2);
 }
+/* ***************CONTADOR********************* */
+.contador {
+  color: #333;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.contador2 li {
+  display: inline-block;
+  color: #fff;
+  font-size: 1.5rem;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+}
+
+.contador2 li span {
+  display: block;
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.emoji {
+  display: none;
+  padding: 1rem;
+}
+
+.emoji span {
+  font-size: 4rem;
+  padding: 0 .5rem;
+}
+
+@media all and (max-width: 768px) {
+
+  
+  .contador2 li {
+    font-size: calc(1.125rem * var(--smaller));
+  }
+  
+  .contador2 li span {
+    font-size: calc(3.375rem * var(--smaller));
+  }
+}

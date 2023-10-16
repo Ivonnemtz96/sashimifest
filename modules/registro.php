@@ -84,208 +84,56 @@
                     <div class="col-12">
                       <div class="row g-4">
                         <div class="col-md-12">
-                          <label for="template-wedding-first-name">Lugar y fecha de inscripción<small
-                              class="text-danger">*</small></label>
-                          <input type="text" id="template-wedding-first-name" name="template-wedding-first-name"
+                          <label for="template-wedding-first-name">Lugar y fecha de inscripción<small class="text-danger">*</small></label>
+                          <input type="text" id="lugar" name="lugar"
                             value="" class="form-control required" placeholder="Lugar y fecha" />
                         </div>
                         <div class="col-md-12">
-                          <label for="template-wedding-first-name">Nombre del participante<small
-                              class="text-danger">*</small></label>
-                          <input type="text" id="template-wedding-first-name" name="template-wedding-first-name"
+                          <label for="template-wedding-first-name">Nombre del participante<small class="text-danger">*</small></label>
+                          <input type="text" id="nombre" name="nombre"
                             value="" class="form-control required" placeholder="Nombre del participante" />
                         </div>
                         <div class="col-md-12">
-                          <label for="template-wedding-last-name">Nombre del asistente</label>
-                          <input type="text" id="template-wedding-last-name" name="template-wedding-last-name" value=""
-                            class="form-control" placeholder="Nombre del asistente" />
+                          <label for="template-wedding-last-name">Nombre del asistente <small class="text-danger">*</small></label>
+                          <input type="text" id="asistente" name="asistente" value=""
+                            class="form-control required" placeholder="Nombre del asistente" />
                         </div>
                         <div class="col-md-12">
-                          <label for="template-wedding-last-name">Nombre del platillo a presentar</label>
-                          <input type="text" id="template-wedding-last-name" name="template-wedding-last-name" value=""
-                            class="form-control" placeholder="Nombre del platillo a presentar" />
+                          <label for="template-wedding-last-name">Nombre del platillo a presentar <small class="text-danger">*</small></label>
+                          <input type="text" id="platillo" name="platillo" value=""
+                            class="form-control required" placeholder="Nombre del platillo a presentar" />
                         </div>
                         <div class="col-md-12">
-                          <label for="template-wedding-last-name">Categoría</label>
-                          <input type="text" id="template-wedding-last-name" name="template-wedding-last-name" value=""
-                            class="form-control" placeholder="Categoría" />
+                          <label for="template-wedding-last-name">Categoría<small class="text-danger">*</small></label>
+                          <input type="text" id="categoria" name="categoria" value=""
+                            class="form-control required" placeholder="Categoría" />
                         </div>
                         <div class="col-md-12">
-                          <label for="template-wedding-last-name">Nombre de la empresa</label>
-                          <input type="text" id="template-wedding-last-name" name="template-wedding-last-name" value=""
-                            class="form-control" placeholder="Nombre de la empresa" />
+                          <label for="template-wedding-last-name">Nombre de la empresa<small class="text-danger">*</small></label>
+                          <input type="text" id="empresa" name="empresa" value=""
+                            class="form-control required" placeholder="Nombre de la empresa" />
                         </div>
                         <div class="col-md-6">
-                          <label for="template-wedding-last-name">Domicilio</label>
-                          <input type="text" id="template-wedding-last-name" name="template-wedding-last-name" value=""
-                            class="form-control" placeholder="Domicilio" />
+                          <label for="template-wedding-last-name">Domicilio<small class="text-danger">*</small></label>
+                          <input type="text" id="direccion" name="direccion" value=""
+                            class="form-control required" placeholder="Domicilio" />
                         </div>
                         <div class="col-md-6">
-                          <label for="template-wedding-last-name">Municipio</label>
-                          <input type="text" id="template-wedding-last-name" name="template-wedding-last-name" value=""
-                            class="form-control" placeholder="Municipio" />
+                          <label for="template-wedding-last-name">Municipio<small class="text-danger">*</small></label>
+                          <input type="text" id="municipio" name="municipio" value=""
+                            class="form-control required" placeholder="Municipio" />
                         </div>
                         <div class="col-md-6">
-                          <label for="template-wedding-last-name">Teléfono</label>
-                          <input type="text" id="template-wedding-last-name" name="template-wedding-last-name" value=""
-                            class="form-control" placeholder="Teléfono" />
+                          <label for="template-wedding-last-name">Teléfono<small class="text-danger">*</small></label>
+                          <input type="text" id="tel" name="tel" value=""
+                            class="form-control required" placeholder="Teléfono" />
                         </div>
                         <div class="col-md-6">
-                          <label for="template-wedding-last-name">Correo</label>
-                          <input type="text" id="template-wedding-last-name" name="template-wedding-last-name" value=""
-                            class="form-control" placeholder="Correo" />
+                          <label for="template-wedding-last-name">Correo<small class="text-danger">*</small></label>
+                          <input type="text" id="correo" name="correo" value=""
+                            class="form-control required" placeholder="Correo" />
                         </div>
                       </div>
-                    </div>
-                    <div hidden class="col-12">
-                      <label for="template-wedding-attending" class="mb-3">are you be attending?<small
-                          class="text-danger">*</small></label><br />
-                      <div class="btn-group nav" data-bs-toggle="buttons">
-                        <a href="#attending-tab-1" class="btn btn-outline-success flex-fill" data-bs-toggle="tab">
-                          <input type="radio" class="btn-check" name="template-wedding-attending"
-                            id="template-wedding-attending-yes" class="required" value="Yes" />Yes
-                        </a>
-                        <a href="#attending-tab-2" class="btn btn-outline-danger flex-fill" data-bs-toggle="tab">
-                          <input type="radio" class="btn-check" name="template-wedding-attending"
-                            id="template-wedding-attending-no" class="required" value="No" />No
-                        </a>
-                        <a href="#attending-tab-3" class="btn btn-outline-info flex-fill" data-bs-toggle="tab">
-                          <input type="radio" class="btn-check" name="template-wedding-attending"
-                            id="template-wedding-attending-may be" class="required" value="May be" />May be
-                        </a>
-                      </div>
-                      <div class="tab-content">
-                        <div class="tab-pane bg-light p-4 mt-4" id="attending-tab-1">
-                          <div class="row g-4">
-                            <div class="col-md-12">
-                              <h4 class="mb-2">
-                                <i class="bi-hand-thumbs-up position-relative text-success me-2"
-                                  style="top: 1px"></i>Thank You so much for Attending.
-                              </h4>
-                              <p class="mb-0">
-                                We need some Information. Sit amet
-                                consectetur adipisicing elit. Asperiores
-                                repudiandae aliquid blanditiis doloremque
-                                assumenda nemo!
-                              </p>
-                            </div>
-                            <div class="col-md-6">
-                              <label for="template-wedding-attending-side">Side:<small
-                                  class="text-danger">*</small></label>
-                              <select id="template-wedding-attending-side" name="template-wedding-attending-side"
-                                class="form-select required">
-                                <option value="" disabled="" selected="">
-                                  Select Side
-                                </option>
-                                <option value="Groom">
-                                  Groom - Dianne Ameter
-                                </option>
-                                <option value="Bride">
-                                  Bride- Wisteria
-                                </option>
-                              </select>
-                            </div>
-                            <div class="col-md-6">
-                              <label for="template-wedding-attending-guest"># of Guests:<small
-                                  class="text-danger">*</small></label>
-                              <select id="template-wedding-attending-guest" name="template-wedding-attending-guest"
-                                class="form-select required">
-                                <option value="" disabled="" selected="">
-                                  0
-                                </option>
-                                <option value="1">1</option>
-                                <option value="2">2</option>
-                                <option value="3">3</option>
-                                <option value="4">4</option>
-                                <option value="5+">5+</option>
-                              </select>
-                            </div>
-                            <div class="col-12">
-                              <label for="template-wedding-email">Email Address<small
-                                  class="text-danger">*</small></label>
-                              <input type="email" name="template-wedding-email" id="template-wedding-email"
-                                class="form-control required" value="" placeholder="user@company.com" />
-                            </div>
-                          </div>
-                        </div>
-                        <div class="tab-pane bg-light p-4 mt-4" id="attending-tab-2">
-                          <div class="row g-4">
-                            <div class="col-md-12">
-                              <h4 class="mb-2">
-                                <i class="bi-emoji-frown text-danger me-2 position-relative" style="top: 1px"></i>That
-                                is really sad.
-                              </h4>
-                              <p class="mb-0">
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Voluptatum eum ducimus
-                                labore omnis dolore recusandae id
-                                asperiores, cumque, deserunt sit?
-                              </p>
-                            </div>
-                            <div class="col-md-12">
-                              <label for="template-wedding-attending-comment">Comments (Optional):</label>
-                              <textarea class="form-control" id="template-wedding-attending-comment"
-                                name="template-wedding-attending-comment" rows="6" cols="20"></textarea>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="tab-pane bg-light p-4 mt-4" id="attending-tab-3">
-                          <div class="row g-4">
-                            <div class="col-md-12">
-                              <h4 class="mb-2">
-                                <i class="bi-emoji-expressionless text-info me-2 position-relative"
-                                  style="top: 1px"></i>No Problem, You're always Welcome.
-                              </h4>
-                              <p class="mb-0">
-                                We need some Information. Sit amet
-                                consectetur adipisicing elit. Asperiores
-                                repudiandae aliquid blanditiis doloremque
-                                assumenda nemo!
-                              </p>
-                            </div>
-                            <div class="col-md-6">
-                              <label for="template-wedding-attending-maybe-side">Side:<small
-                                  class="text-danger">*</small></label>
-                              <select id="template-wedding-attending-maybe-side"
-                                name="template-wedding-attending-maybe-side" class="form-select required">
-                                <option value="" disabled="" selected="">
-                                  Select Side
-                                </option>
-                                <option value="Groom">
-                                  Groom - Dianne Ameter
-                                </option>
-                                <option value="Bride">
-                                  Bride- Wisteria
-                                </option>
-                              </select>
-                            </div>
-                            <div class="col-md-6">
-                              <label for="template-wedding-attending-maybe-guest"># of Guests:<small
-                                  class="text-danger">*</small></label>
-                              <select id="template-wedding-attending-maybe-guest"
-                                name="template-wedding-attending-maybe-guest" class="form-select required">
-                                <option value="" disabled="" selected="">
-                                  0
-                                </option>
-                                <option value="1">1</option>
-                                <option value="2">2</option>
-                                <option value="3">3</option>
-                                <option value="4">4</option>
-                                <option value="5+">5+</option>
-                              </select>
-                            </div>
-                            <div class="col-12">
-                              <label for="template-wedding-maybe-email">Email Address<small
-                                  class="text-danger">*</small></label>
-                              <input type="email" name="template-wedding-maybe-email" id="template-wedding-maybe-email"
-                                class="form-control required" value="" placeholder="user@company.com" />
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-12 d-none">
-                      <input type="text" id="template-wedding-botcheck" name="template-wedding-botcheck" value="" />
                     </div>
                     <div class="col-12">
                       <button type="submit" id="template-wedding-submit" name="template-wedding-submit"
@@ -293,28 +141,9 @@
                         Registrarme
                       </button>
                     </div>
-                    <input type="hidden" name="prefix" value="template-wedding-" />
                   </div>
                 </form>
               </div>
-              <!-- <a href="#myModal1" data-lightbox="inline" class="template-wedding-success-modal d-none"></a>
-              <div class="modal1 mfp-hide" id="myModal1">
-                <div class="block mx-auto" style="background-color: #fff; max-width: 600px">
-                  <div style="padding: 50px">
-                    <i class="bi-emoji-smile color display-4 mb-2"></i>
-                    <h3 class="mb-3">Thank You.</h3>
-                    <h5 class="lead fw-semibold ls-1 text-uppercase my-4">
-                      Your RSVP has been Confirmed.
-                    </h5>
-                    <p class="fw-normal mb-0">
-                      Thank you very much for attending our Wedding. If
-                      you need any other information from me then Please
-                      let me contact to
-                      <a href="mailto:no.reply@semicolonweb.com"><u>no.reply@semicolonweb.com</u></a>
-                    </p>
-                  </div>
-                </div>
-              </div> -->
             </div>
           </div>
         </div>
