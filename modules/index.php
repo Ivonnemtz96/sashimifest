@@ -28,16 +28,11 @@
                             data-endspeed="1000" data-height="none"
                             data-whitespace="['normal','nowrap','normal','normal']" data-endeasing="Power4.easeIn"
                             style="z-index: 3; line-height: 32px;text-shadow: #000 10px 10px 20px;font-size:2rem; margin-top:6rem;">
-                            <!-- <p>
-                El evento más esperado de Baja California Sur empieza su cuenta regresiva.
-              </p> -->
                             <div class="container contador" style="margin-bottom: 2rem;">
                                 <div id="countdown">
                                     <ul class="contador2">
                                         <li ><span id="days"></span>Días</li>
                                         <li><span id="hours"></span>Horas</li>
-                                        <li class="d-none d-md-block"><span id="minutes"></span>Minutos</li>
-                                        <li class="d-none d-md-block"><span id="seconds"></span>Segundos</li>
                                     </ul>
                                 </div>
                                 <div id="content" class="emoji">
@@ -93,8 +88,6 @@
                                     <ul class="contador2">
                                         <li><span id="days2"></span>Días</li>
                                         <li><span id="hours2"></span>Horas</li>
-                                        <li class="d-none d-md-block"><span id="minutes2"></span>Minutos</li>
-                                        <li class="d-none d-md-block"><span id="seconds2"></span>Segundos</li>
                                     </ul>
                                 </div>
                                 <div id="content" class="emoji">
@@ -506,9 +499,6 @@
                         <div style="font-size: 16px; line-height: 1.7">
                             <address style="line-height: 1.7">
                                 <strong>Poblado de La Playa</strong>
-                                <!-- <br />
-                795 Folsom Ave, Suite 600<br />
-                San Francisco, CA 94107<br /> -->
                             </address>
                             <div class="clear mt-4"></div>
                             <div class="clear mt-5"></div>

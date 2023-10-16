@@ -23,7 +23,7 @@
               </a>
             </li>
             <li class="menu-item">
-              <a href="/#about" class="menu-link">
+              <a href="/about" class="menu-link">
                 Nosotros
               </a>
             </li>
