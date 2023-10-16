@@ -34,10 +34,10 @@
                             <div class="container contador" style="margin-bottom: 2rem;">
                                 <div id="countdown">
                                     <ul class="contador2">
-                                        <li ><span id="days"></span>days</li>
-                                        <li><span id="hours"></span>Hours</li>
-                                        <li class="d-none d-md-block"><span id="minutes"></span>Minutes</li>
-                                        <li class="d-none d-md-block"><span id="seconds"></span>Seconds</li>
+                                        <li ><span id="days"></span>Días</li>
+                                        <li><span id="hours"></span>Horas</li>
+                                        <li class="d-none d-md-block"><span id="minutes"></span>Minutos</li>
+                                        <li class="d-none d-md-block"><span id="seconds"></span>Segundos</li>
                                     </ul>
                                 </div>
                                 <div id="content" class="emoji">
@@ -91,10 +91,10 @@
                             <div class="container contador" style="margin-bottom: 2rem;">
                                 <div id="countdown2">
                                     <ul class="contador2">
-                                        <li><span id="days2"></span>days</li>
-                                        <li><span id="hours2"></span>Hours</li>
-                                        <li class="d-none d-md-block"><span id="minutes2"></span>Minutes</li>
-                                        <li class="d-none d-md-block"><span id="seconds2"></span>Seconds</li>
+                                        <li><span id="days2"></span>Días</li>
+                                        <li><span id="hours2"></span>Horas</li>
+                                        <li class="d-none d-md-block"><span id="minutes2"></span>Minutos</li>
+                                        <li class="d-none d-md-block"><span id="seconds2"></span>Segundos</li>
                                     </ul>
                                 </div>
                                 <div id="content" class="emoji">
