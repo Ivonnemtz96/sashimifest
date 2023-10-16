@@ -1,0 +1,86 @@
+.fest{
+  width: 15rem;
+}
+.img-fest {
+  position: absolute;
+  top: 68%;
+  z-index: 0;
+  right: 17%;
+  transform: scaleX(-1);
+  overflow: hidden;
+  opacity: 50%;
+  width: 20%;
+}
+
+.mapa{
+  width: 15rem;
+}
+.img-contact {
+  position: absolute;
+  display: flex;
+  bottom: 8rem;
+  z-index: 0;
+  left: 6rem;
+  overflow: hidden;
+  width: 20%;
+}
+
+@media (max-width: 1250px) {
+  .img-fest{
+    position: absolute;
+    top: 68%;
+    z-index: 0;
+    right: 1%;
+    transform: scaleX(-1);
+    overflow: hidden;
+    opacity: 50%;
+    width: 20%;
+  }
+}
+
+@media (max-width: 780px) {
+  .img-fest{
+    position: absolute;
+    top: 78%;
+    z-index: 0;
+    right: 1%;
+    transform: scaleX(-1);
+    overflow: hidden;
+    opacity: 50%;
+    width: 24%;
+  }
+  .fest{
+    width: 8rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .img-fest{
+    position: absolute;
+    top: 85%;
+    z-index: 0;
+    right: 1%;
+    transform: scaleX(-1);
+    overflow: hidden;
+    opacity: 50%;
+    width: 27%;
+  }
+  .fest{
+    width: 7rem;
+  }
+}
+@media (max-width: 325px) {
+  .img-fest{
+    position: absolute;
+    top: 98%;
+    z-index: 0;
+    right: 1%;
+    transform: scaleX(-1);
+    overflow: hidden;
+    opacity: 50%;
+    width: 27%;
+  }
+  .fest{
+    width: 7rem;
+  }
+}

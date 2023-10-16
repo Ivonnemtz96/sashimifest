@@ -1,0 +1,5 @@
+[29-Aug-2023 17:27:33 America/Boise] PHP Warning:  include(modules/registro.php): failed to open stream: No such file or directory in /home1/arketll6/public_html/000-SUBDOMINIOS/sashimifest/registro.php on line 14
+[29-Aug-2023 17:27:33 America/Boise] PHP Warning:  include(modules/registro.php): failed to open stream: No such file or directory in /home1/arketll6/public_html/000-SUBDOMINIOS/sashimifest/registro.php on line 14
+[29-Aug-2023 17:27:33 America/Boise] PHP Warning:  include(): Failed opening 'modules/registro.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/arketll6/public_html/000-SUBDOMINIOS/sashimifest/registro.php on line 14
+[31-Aug-2023 11:12:06 America/Boise] PHP Warning:  include(/modules/registro.php): failed to open stream: No such file or directory in /home1/arketll6/public_html/000-SUBDOMINIOS/sashimifest/formulario.php on line 14
+[31-Aug-2023 11:12:06 America/Boise] PHP Warning:  include(): Failed opening '/modules/registro.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/arketll6/public_html/000-SUBDOMINIOS/sashimifest/formulario.php on line 14
