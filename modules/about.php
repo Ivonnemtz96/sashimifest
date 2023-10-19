@@ -20,13 +20,6 @@
                                 vacaciones en torno a este encuentro, también el fortalecimiento de nuevas empresas que
                                 han salido de este evento, hay varios casos de emprendimiento de cocineros los cuales
                                 han invertido sus ganancias de los premios en sus restaurantes. <br>
-                                ​Ya han venido a participar estados de Baja California, Colima, Jalisco, Sinaloa,
-                                Oaxaca, países como China, Japón y Perú sólo por nombrar algunos. Dentro del evento
-                                concursan cada año más de 60 participantes en todas las categorías, se dan degustaciones
-                                de tequila, mezcal, cerveza artesanal, vino tinto, pizzas de sashimi y hay una gran
-                                variedad de géneros musicales que aderezan el encuentro que es visitado por servidores
-                                púbicos, medios de comunicación, empresarios, conductores de eventos, artistas y púbico
-                                en general.
                             </p>
                         </div>
                     </div>
@@ -287,7 +280,7 @@
 <div id="section-contact" class="page-section pt-0 container">
     <div class="row mx-0 mb-6 align-items-stretch container-fluid">
 
-        <div class="col-lg-6 col-md-6 bg-contrast-100" style="background-image: url(/images/contacto-img.png);background-position: left;
+        <div class="col-lg-6 col-md-6 bg-contrast-100" style="background-image: url(/images/contacto-img.png?=1);background-position: left;
     background-repeat: no-repeat;background-size: contain;">
             <div class="col-padding">
                 <h3 class="font-body fw-normal ls-1">Ubicación del evento</h3>
