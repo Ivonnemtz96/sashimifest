@@ -17,7 +17,7 @@
                             data-endelementdelay="0.1" data-endspeed="1000" data-width="['800','800','560','360']"
                             data-height="none" data-endeasing="Power4.easeIn"
                             style="z-index: 3;text-shadow: #000 10px 10px 20px;">
-                            Sashimi Fest <br><br><br><br> Los Cabos
+                            Evento <br><br><br><br> Gastronómico
                         </div>
                         <div class="tp-caption text-center ltl tp-resizeme" data-x="center" data-hoffset="0"
                             data-y="top" data-voffset="360" data-width="['750','750','480','360']"
@@ -123,7 +123,7 @@
                     Sashimi Fest Los Cabos 2024
                 </h2>
                 <p class="lead mx-auto mb-5" style="max-width: 800px">
-                    Ya 5 años desde el primer evento, Sashimi Fest Los Cabos, se ha convertido en uno de los eventos más
+                    Ya 6 años desde el primer evento, Sashimi Fest Los Cabos, se ha convertido en uno de los eventos gastronómicos más
                     populares
                     de Baja California Sur, siendo de los eventos más esperados por turistas como la misma gente local,
                     para
@@ -283,65 +283,6 @@
                         </div>
                     </div>
                 </article>
-                <!-- <article class="portfolio-item col-lg-6 col-md-4 col-sm-6 col-12 wide">
-          <div class="grid-inner">
-            <div class="portfolio-image">
-              <a href="#">
-                <img src="/one-page/images/portfolio/mixed/5.jpg" alt="Console Activity" />
-              </a>
-              <div class="bg-overlay">
-                <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
-                  <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
-                    data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                    <h3><a href="#">¡Inscríbete!</a></h3>
-                    <span><a href="#">UI Elements</a>,
-                      <a href="#">Media</a></span>
-                  </div>
-                </div>
-                <div class="bg-overlay-bg" data-hover-animate="fadeIn"></div>
-              </div>
-            </div>
-          </div>
-        </article>
-        <article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12">
-          <div class="grid-inner">
-            <div class="portfolio-image">
-              <a href="#">
-                <img src="/one-page/images/portfolio/mixed/6.jpg" alt="Open Imagination" />
-              </a>
-              <div class="bg-overlay">
-                <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
-                  <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
-                    data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                    <h3><a href="#">Open Imagination</a></h3>
-                    <span><a href="#">Media</a>, <a href="#">Icons</a></span>
-                  </div>
-                </div>
-                <div class="bg-overlay-bg" data-hover-animate="fadeIn"></div>
-              </div>
-            </div>
-          </div>
-        </article>
-        <article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12">
-          <div class="grid-inner">
-            <div class="portfolio-image">
-              <a href="#">
-                <img src="/one-page/images/portfolio/mixed/7.jpg" alt="Backpack Contents" />
-              </a>
-              <div class="bg-overlay">
-                <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
-                  <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
-                    data-hover-animate-out="fadeOutDownSmall" data-hover-speed="350">
-                    <h3><a href="#">Backpack Contents</a></h3>
-                    <span><a href="#">UI Elements</a>,
-                      <a href="#">Icons</a></span>
-                  </div>
-                </div>
-                <div class="bg-overlay-bg" data-hover-animate="fadeIn"></div>
-              </div>
-            </div>
-          </div>
-        </article> -->
             </div>
             <div class="mt-5 text-center">
                 <a href="/formulario" class="button button-border button-circle fw-semibold">¡Inscríbete!</a>
@@ -349,90 +290,6 @@
         </div>
         <div id="galeria" style="margin-bottom: 3rem;"></div>
         <div id="section-services" class="page-section pt-0">
-            <!-- <div class="section m-0">
-        <div class="container">
-          <div class="mx-auto text-center" style="max-width: 900px">
-            <h2 class="mb-0 fw-light ls-1">
-              We enjoy working on the Services &amp; Products we provide
-              as much as you need them. This help us in delivering your
-              Goals easily. Browse through the wide range of services we
-              provide.
-            </h2>
-          </div>
-        </div>
-      </div>
-      <div class="row align-items-stretch">
-        <div class="col-lg-4 d-none d-md-block" style="
-                  background: url('/images/services/main-bg.jpg') center center
-                    no-repeat;
-                  background-size: cover;
-                "></div>
-        <div class="col-lg-8">
-          <div class="row align-items-stretch grid-border">
-            <div class="col-lg-4 col-md-6 col-padding">
-              <div class="feature-box fbox-center fbox-dark fbox-plain">
-                <div class="fbox-icon">
-                  <a href="#"><i class="icon-et-mobile op-gradient-icon"></i></a>
-                </div>
-                <div class="fbox-content fbox-content-sm">
-                  <h3>Responsive Framework</h3>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-padding">
-              <div class="feature-box fbox-center fbox-dark fbox-plain">
-                <div class="fbox-icon">
-                  <a href="#"><i class="icon-et-presentation op-gradient-icon"></i></a>
-                </div>
-                <div class="fbox-content fbox-content-sm">
-                  <h3>Beautifully Presented</h3>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-padding">
-              <div class="feature-box fbox-center fbox-dark fbox-plain">
-                <div class="fbox-icon">
-                  <a href="#"><i class="icon-et-puzzle op-gradient-icon"></i></a>
-                </div>
-                <div class="fbox-content fbox-content-sm">
-                  <h3>Extensively Extendable</h3>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-padding">
-              <div class="feature-box fbox-center fbox-dark fbox-plain">
-                <div class="fbox-icon">
-                  <a href="#"><i class="icon-et-gears op-gradient-icon"></i></a>
-                </div>
-                <div class="fbox-content fbox-content-sm">
-                  <h3>Powerfully Customizable</h3>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-padding">
-              <div class="feature-box fbox-center fbox-dark fbox-plain">
-                <div class="fbox-icon">
-                  <a href="#"><i class="icon-et-genius op-gradient-icon"></i></a>
-                </div>
-                <div class="fbox-content fbox-content-sm">
-                  <h3>Geniusly Transformable</h3>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-padding">
-              <div class="feature-box fbox-center fbox-dark fbox-plain">
-                <div class="fbox-icon">
-                  <a href="#"><i class="icon-et-hotairballoon op-gradient-icon"></i></a>
-                </div>
-                <div class="fbox-content fbox-content-sm">
-                  <h3>Industrial Support</h3>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> -->
-
             <div class="section m-0">
                 <div class="container">
                     <div class="mx-auto text-center" style="max-width: 900px">
@@ -469,11 +326,11 @@
                 <div class="container">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3">
-                            <img style="width: 9rem;" src="/images/sashimi.png">
+                            <img style="width: 9rem;" src="/images/sashimi.png?=1">
                         </div>
                         <div class="col-md-6">
                             <h2 class="mb-0 fw-light ls-1">
-                                ¿Quieres estar en el evento más grande de Baja California Sur? <br> <br>
+                                ¿Quieres estar en el evento gastronómico más grande de Baja California Sur? <br> <br>
 
                             </h2>
                         </div>
@@ -488,11 +345,9 @@
 
             </div>
         </div>
-
         <div id="section-contact" class="page-section pt-0 container">
             <div class="row mx-0 mb-6 align-items-stretch container-fluid">
-
-                <div class="col-lg-6 col-md-6 bg-contrast-100" style="background-image: url(/images/contacto-img.png);background-position: left;
+                <div class="col-lg-6 col-md-6 bg-contrast-100" style="background-image: url(/images/contacto-img.png?=1);background-position: left;
     background-repeat: no-repeat;background-size: contain;">
                     <div class="col-padding">
                         <h3 class="font-body fw-normal ls-1">Ubicación del evento</h3>
