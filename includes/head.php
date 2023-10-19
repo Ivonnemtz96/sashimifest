@@ -3,7 +3,7 @@
   <meta http-equiv="x-ua-compatible" content="IE=edge" />
   <meta name="author" content="Sashimi Fest Los Cabos" />
   <meta name="description"
-    content="Sashimi Fest Los Cabos, el evento más grande de Baja California Sur." />
+    content="Sashimi Fest Los Cabos, el evento gastronómico más grande de Baja California Sur." />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
