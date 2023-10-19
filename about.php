@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <?php
-$title = 'Inicio';
+$title = 'About';
 $inicio = 'current-menu-item';
 include('includes/head.php');
 ?>

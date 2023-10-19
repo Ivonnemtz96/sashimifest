@@ -186,7 +186,7 @@
 </div>
 
 <div class="insta-float">
-  <a href="#" >
+  <a href="https://instagram.com/sashimi_fest?igshid=MzRlODBiNWFlZA=="  target="_blank">
     <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@sashimi_fest</small></span>
   </a>
 </div>

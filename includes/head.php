@@ -17,7 +17,7 @@
 
   <link rel="stylesheet" href="/one-page/onepage.css" />
 
-  <link rel="stylesheet" href="/css/custom.css" />
+  <link rel="stylesheet" href="/css/custom.css?=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <link rel="stylesheet" href="/include/rs-plugin/css/settings.css" media="screen" />

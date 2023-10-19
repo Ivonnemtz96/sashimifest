@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <?php
-$title = 'Inicio';
+$title = 'Registro';
 $inicio = 'current-menu-item';
 include('includes/head.php');
 ?>
@@ -13,6 +13,7 @@ include('includes/head.php');
         include('includes/header.php');
         include('modules/registro.php');
         include('includes/footer.php');
+        include('includes/redes.php');
         ?>
   </div>
   <?php 
