@@ -5,8 +5,8 @@
       <div class="header-row">
         <div id="logo">
           <a href="/">
-            <img class="logo-default" srcset="/images/sashimi.png?=1" src="/images/sashimi.png?=1" alt="Canvas Logo" />
-            <img class="logo-dark" srcset="/images/sashimi.png?=1" src="/images/sashimi.png?=1" alt="Canvas Logo" />
+            <img class="logo-default" srcset="/images/sashimi.png?=2" src="/images/sashimi.png?=2" alt="Sashimi Fest" />
+            <img class="logo-dark" srcset="/images/sashimi.png?=1" src="/images/sashimi.png?=2" alt="Sashimi Fest" />
           </a>
         </div>
         <div class="primary-menu-trigger">

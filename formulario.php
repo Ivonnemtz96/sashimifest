@@ -17,7 +17,7 @@ include('includes/head.php');
         ?>
   </div>
   <?php 
-    include('includes/scripts.php');
+    include('includes/contact-scripts.php');
     ?>
 
 </body>

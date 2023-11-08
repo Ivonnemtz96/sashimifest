@@ -120,10 +120,11 @@
         <div id="section-about" class="text-center page-section">
             <div class="container">
                 <h2 class="mx-auto mb-5 font-body " style="max-width: 700px; font-size: 40px">
-                    Sashimi Fest Los Cabos 2024
+                    El máximo circuito de Sashimi Fest en todo México
                 </h2>
                 <p class="lead mx-auto mb-5" style="max-width: 800px">
-                    Ya 6 años desde el primer evento, Sashimi Fest Los Cabos, se ha convertido en uno de los eventos gastronómicos más
+                <strong>Sashimi Fest Los Cabos 2024</strong> <br>
+                    Ya 7 años desde el primer evento, Sashimi Fest Los Cabos, se ha convertido en uno de los eventos gastronómicos más
                     populares
                     de Baja California Sur, siendo de los eventos más esperados por turistas como la misma gente local,
                     para
@@ -331,7 +332,6 @@
                         <div class="col-md-6">
                             <h2 class="mb-0 fw-light ls-1">
                                 ¿Quieres estar en el evento gastronómico más grande de Baja California Sur? <br> <br>
-
                             </h2>
                         </div>
                         <div class="col-md-3 align-items-center">
@@ -347,7 +347,7 @@
         </div>
         <div id="section-contact" class="page-section pt-0 container">
             <div class="row mx-0 mb-6 align-items-stretch container-fluid">
-                <div class="col-lg-6 col-md-6 bg-contrast-100" style="background-image: url(/images/contacto-img.png?=1);background-position: left;
+                <div class="col-lg-6 col-md-6 bg-contrast-100" style="background-image: url(/images/contacto-img.png?=2);background-position: left;
     background-repeat: no-repeat;background-size: contain;">
                     <div class="col-padding">
                         <h3 class="font-body fw-normal ls-1">Ubicación del evento</h3>

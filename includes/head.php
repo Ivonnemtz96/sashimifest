@@ -17,14 +17,14 @@
 
   <link rel="stylesheet" href="/one-page/onepage.css" />
 
-  <link rel="stylesheet" href="/css/custom.css?=1" />
+  <link rel="stylesheet" href="/css/custom2.css" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <link rel="stylesheet" href="/include/rs-plugin/css/settings.css" media="screen" />
   <link rel="stylesheet" href="/include/rs-plugin/css/layers.css" />
   <link rel="stylesheet" href="/include/rs-plugin/css/navigation.css" />
 
-  <title>Sashimi Fest Los Cabos</title>
+  <title>Sashimi Fest Evento Gastronómico en Los Cabos</title>
   <style>
   .tp-caption {
     white-space: nowrap;
