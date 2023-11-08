@@ -2,10 +2,14 @@
 <html dir="ltr" lang="en-US">
 <?php
 $title = 'Inicio';
-$inicio = 'current-menu-item';
 include('includes/head.php');
 ?>
 
+<?
+if (isset($_GET)) {
+  include_once("php/msg.php");
+}
+?>
 <body class="stretched">
 
   <div id="wrapper">

@@ -134,7 +134,7 @@
                     tanto sudcaliforniana como de otros países.
                 </p>
                 <p class="mb-5" style="font-size: 25px">
-                    <a href="/formulario" data-scrollto="#section-services" data-easing="easeInOutExpo"
+                    <a href="/formulario" data-easing="easeInOutExpo"
                         data-speed="1250" data-offset="70" class="more-link">Registrarse<i
                             class="uil uil-angle-right-b"></i></a>
                 </p>
@@ -335,7 +335,7 @@
                             </h2>
                         </div>
                         <div class="col-md-3 align-items-center">
-                            <a href="/formulario" data-scrollto="#template-contactform" data-offset="140"
+                            <a href="/formulario" data-offset="140"
                                 data-easing="easeInOutExpo" data-speed="1250"
                                 class="button button-border button-circle button-light button-large my-0"
                                 style="position: relative; top: -3px">¡Regístrate!</a>

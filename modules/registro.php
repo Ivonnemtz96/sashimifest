@@ -70,7 +70,7 @@
                                         <div class="css3-spinner-double-bounce2"></div>
                                     </div>
                                 </div>
-                                <form class="mb-0" name="template-wedding" action="f.php" method="post"
+                                <form class="mb-0" name="template-wedding" action="/php/contact.php" method="post"
                                     enctype="multipart/form-data">
                                     <div class="row g-4">
                                         <div class="col-12 text-center mb-5">
@@ -112,9 +112,8 @@
                                                 </div>
                                                 <div class="col-md-12 form-group">
                                                     <label>Categoría</label>
-                                                    <select class="form-select " required
-                                                        name="event-registration-interests"
-                                                        id="event-registration-interests">
+                                                    <select class="form-select " required name="categoria"
+                                                        id="categoria">
                                                         <option value>-- Seleccione uno --</option>
                                                         <option value="Gourmet">Gourmet</option>
                                                         <option value="Regional">Regional</option>
@@ -150,7 +149,8 @@
                                                 <div class="col-md-12" style="text-align: justify;">
                                                     <span style="color: #a1a1a1;">
                                                         Una vez leído el presente formato, arriba suscrito y abajo
-                                                        aceptando los términos, se compromete a participar con la seriedad y respaldo
+                                                        aceptando los términos, se compromete a participar con la
+                                                        seriedad y respaldo
                                                         de honorabilidad de su firma, a menos que las causas sean de
                                                         asuntos familiares o de fuerza mayor. Esto es por la seriedad
                                                         del encuentro y por el prestigio de ser el primero en este tipo
@@ -160,10 +160,14 @@
                                                 </div>
                                                 <div class="col-md-12" style="text-align: justify;">
                                                     <div class="form-check">
-                                                        <input type="checkbox" class="form-check-input"
-                                                            id="exampleCheck1" required>
-                                                        <label class="form-check-label" for="exampleCheck1">
-                                                            <b>Yo</b> en pleno uso de mis facultades mentales, me hago
+                                                        <input type="checkbox" class="form-check-input" id="acuerdos"
+                                                            name="acuerdos" required value="En pleno uso de mis facultades mentales, me hago responsable
+                                                            de mis datos y firma aquí expuestos, que he leído y
+                                                            comprendido las reglas, cumpliré con mi participación el día
+                                                            sábado 16 de marzo de 2024, en el Poblado de La Playa,
+                                                            Marina de Puerto Los Cabos, presentándome a las 9:30 hrs.">
+                                                        <label class="form-check-label" for="acuerdos">
+                                                            <b>Yo</b> En pleno uso de mis facultades mentales, me hago
                                                             responsable
                                                             de mis datos y firma aquí expuestos, que he leído y
                                                             comprendido las reglas, cumpliré con mi participación el día
@@ -172,6 +176,15 @@
                                                         </label>
                                                     </div>
                                                 </div>
+
+                                                <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
+                                                    <div class="col-12 col-md-12">
+                                                        <div class="g-recaptcha"
+                                                            data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
+                                                            required></div>
+                                                    </div>
+                                                </div>
+
 
                                             </div>
                                         </div>

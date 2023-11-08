@@ -31,6 +31,8 @@
   }
   </style>
 
+ <!-- captcha -->
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
   <!--PopUp -->
   <link rel="stylesheet" type="text/css"

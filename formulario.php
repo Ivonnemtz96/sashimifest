@@ -2,7 +2,6 @@
 <html dir="ltr" lang="en-US">
 <?php
 $title = 'Registro';
-$inicio = 'current-menu-item';
 include('includes/head.php');
 ?>
 
