@@ -145,35 +145,12 @@
                             <div class="team-image">
                                 <img src="/one-page/images/team/1.jpg?=1" alt="John Doe" />
                             </div>
-                            <!-- <div class="team-desc team-desc-bg">
-                <div class="team-title">
-                  <h4>John Doe</h4>
-                  <span>CEO</span>
-                </div>
-              </div> -->
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
                         <div class="team">
                             <div class="team-image">
                                 <img src="/one-page/images/team/2.jpg?=1" alt="Josh Clark" />
-                                <!-- <div class="bg-overlay">
-                  <div class="bg-overlay-content align-items-end" data-hover-animate="fadeIn" data-hover-speed="400">
-                    <a href="#" class="social-icon bg-transparent h-bg-twitter" title="Twitter">
-                      <i class="fa-brands fa-twitter"></i>
-                      <i class="fa-brands fa-twitter"></i>
-                    </a>
-                    <a href="#" class="social-icon bg-transparent h-bg-linkedin" title="LinkedIn">
-                      <i class="fa-brands fa-linkedin"></i>
-                      <i class="fa-brands fa-linkedin"></i>
-                    </a>
-                    <a href="#" class="social-icon bg-transparent h-bg-flickr" title="Flickr">
-                      <i class="fa-brands fa-flickr"></i>
-                      <i class="fa-brands fa-flickr"></i>
-                    </a>
-                  </div>
-                  <div class="bg-overlay-bg" data-hover-animate="fadeIn" data-hover-speed="400"></div>
-                </div> -->
                             </div>
                         </div>
                     </div>
@@ -213,7 +190,7 @@
                                 <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                                     <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                         data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                        <h3><a href="#">Sashimi Gourmet</a></h3>
+                                        <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi Gourmet</h4>
                                         <span>El amor refinado por los buenos Sashimis</span>
                                     </div>
                                 </div>
@@ -232,7 +209,7 @@
                                 <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                                     <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                         data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                        <h3><a href="#">Sashimi Infantil</a></h3>
+                                        <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi Infantil</h4>
                                         <span>Los niños aprenden a dirigir, conocer valores, estimulan la creatividad y
                                             la conciencia
                                             cultural.</span>
@@ -253,7 +230,7 @@
                                 <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                                     <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                         data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                        <h3><a href="#">Sashimi Regional</a></h3>
+                                        <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi Regional</h4>
                                         <span>La cateforía reyna del Sashimi Fest, donde se demuestra tus habilidades y
                                             creatividad.</span>
                                     </div>
@@ -273,7 +250,7 @@
                                 <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                                     <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                         data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                        <h3><a href="#">Sashimi Estudiantes</a></h3>
+                                        <h4 style="font-size:25px; color:#007e94;text-shadow:1px 1px 1px #fff;">Sashimi Estudiantes</h4>
                                         <span>Los estudiantes aprenden en tiempo real el proceso de crear al instante en
                                             un ambiente
                                             propicio.</span>
