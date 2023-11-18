@@ -200,7 +200,8 @@
                         <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                             <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                 data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                <h3><a href="#">Sashimi Gourmet</a></h3>
+                                <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi Gourmet
+                                </h4>
                                 <span>El amor refinado por los buenos Sashimis</span>
                             </div>
                         </div>
@@ -219,7 +220,8 @@
                         <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                             <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                 data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                <h3><a href="#">Sashimi Infantil</a></h3>
+                                <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi
+                                    Infantil</h4>
                                 <span>Los niños aprenden a dirigir, conocer valores, estimulan la creatividad y
                                     la conciencia
                                     cultural.</span>
@@ -240,7 +242,8 @@
                         <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                             <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                 data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                <h3><a href="#">Sashimi Regional</a></h3>
+                                <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi
+                                    Regional</h4>
                                 <span>La cateforía reyna del Sashimi Fest, donde se demuestra tus habilidades y
                                     creatividad.</span>
                             </div>
@@ -260,7 +263,8 @@
                         <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                             <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                 data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                <h3><a href="#">Sashimi Estudiantes</a></h3>
+                                <h4 style="font-size:25px; color:#007e94;text-shadow:1px 1px 1px #fff;">Sashimi
+                                    Estudiantes</h4>
                                 <span>Los estudiantes aprenden en tiempo real el proceso de crear al instante en
                                     un ambiente
                                     propicio.</span>

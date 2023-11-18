@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <?php
+include('includes/metricas.php');
 $title = 'Inicio';
 include('includes/head.php');
 ?>
@@ -11,7 +12,9 @@ if (isset($_GET)) {
 }
 ?>
 <body class="stretched">
-
+<?php 
+    include('includes/body-metricas.php');
+    ?>
   <div id="wrapper">
     <?php
         include('includes/header.php');

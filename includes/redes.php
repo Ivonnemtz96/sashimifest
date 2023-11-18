@@ -180,19 +180,19 @@
 </style>
 
 <div class="whats-float">
-  <a href="https://wa.me/+526241212756?text=Hola%20me%20gustaría%20más%20información." target="_blank">
+  <a class="whats" href="https://wa.me/+526241212756?text=Hola%20me%20gustaría%20más%20información." target="_blank">
     <i class="fa-brands fa-whatsapp"></i><span>WhatsApp<br><small>6241212756</small></span>
   </a>
 </div>
 
 <div class="insta-float">
-  <a href="https://instagram.com/sashimi_fest?igshid=MzRlODBiNWFlZA=="  target="_blank">
+  <a class="instagram" href="https://instagram.com/sashimi_fest?igshid=MzRlODBiNWFlZA=="  target="_blank">
     <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@sashimi_fest</small></span>
   </a>
 </div>
 
 <div class="fb-float">
-  <a href="https://www.facebook.com/SashimiFestLosCabos/?locale=es_LA" target="_blank">
+  <a class="facebook" href="https://www.facebook.com/SashimiFestLosCabos/?locale=es_LA" target="_blank">
     <i style="margin: 0px 0px;" class="fa-brands fa-facebook"></i><span>Facebook<br><small>Sashimi Fest</small></span>
   </a>
 </div>
