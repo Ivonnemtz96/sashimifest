@@ -28,7 +28,7 @@ if (!validarVariable($lugar) || !validarVariable($nombre) || !validarVariable($a
   mandarError("1");
 }
 
-$correo_nuevo = new Correo("ivonne.mtz.manzo@gmail.com", $nombre.' ha enviado un nuevo mensaje');
+$correo_nuevo = new Correo("inscripciones@sashimifest.com", $nombre.' ha enviado un nuevo mensaje');
 $correo_nuevo->agregarCampos("Lugar: ", $lugar);
 $correo_nuevo->agregarCampos("Nombre: ", $nombre);
 $correo_nuevo->agregarCampos("Asistente: ", $asistente);
@@ -39,7 +39,7 @@ $correo_nuevo->agregarCampos("Municipio: ", $municipio);
 $correo_nuevo->agregarCampos("Teléfono: ", $tel);
 $correo_nuevo->agregarCampos("Correo: ", $correo);
 $correo_nuevo->agregarCampos("El participante con nombre: ", $nombre);
-$correo_nuevo->agregarCampos("Ha aceptado los s¡guientes acuerdos: ", $acuerdos);
+$correo_nuevo->agregarCampos("Ha aceptado los siguientes acuerdos: ", $acuerdos);
 $enviado = $correo_nuevo->enviarEmail();
 
 if ($enviado) {
@@ -259,7 +259,7 @@ class Correo
   private function construirCabeceras()
   {
     $this->cabeceras  = 'MIME-Version: 1.0' . "\r\n";
-    $this->cabeceras .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+    $this->cabeceras .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
     // Cabeceras adicionales
     $this->cabeceras .= 'From: Banana Team<info@bananagroup.mx>' . "\r\n";
   }

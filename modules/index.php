@@ -31,7 +31,7 @@
                             <div class="container contador" style="margin-bottom: 2rem;">
                                 <div id="countdown">
                                     <ul class="contador2">
-                                        <li ><span id="days"></span>Días</li>
+                                        <li><span id="days"></span>Días</li>
                                         <li><span id="hours"></span>Horas</li>
                                     </ul>
                                 </div>
@@ -123,8 +123,9 @@
                     El máximo circuito de Sashimi Fest en todo México
                 </h2>
                 <p class="lead mx-auto mb-5" style="max-width: 800px">
-                <strong>Sashimi Fest Los Cabos 2024</strong> <br>
-                    Ya 7 años desde el primer evento, Sashimi Fest Los Cabos, se ha convertido en uno de los eventos gastronómicos más
+                    <strong>Sashimi Fest Los Cabos 2024</strong> <br>
+                    Ya 7 años desde el primer evento, Sashimi Fest Los Cabos, se ha convertido en uno de los eventos
+                    gastronómicos más
                     populares
                     de Baja California Sur, siendo de los eventos más esperados por turistas como la misma gente local,
                     para
@@ -134,9 +135,8 @@
                     tanto sudcaliforniana como de otros países.
                 </p>
                 <p class="mb-5" style="font-size: 25px">
-                    <a href="/formulario" data-easing="easeInOutExpo"
-                        data-speed="1250" data-offset="70" class="more-link">Registrarse<i
-                            class="uil uil-angle-right-b"></i></a>
+                    <a href="/formulario" data-easing="easeInOutExpo" data-speed="1250" data-offset="70"
+                        class="more-link">Registrarse<i class="uil uil-angle-right-b"></i></a>
                 </p>
                 <div class="clear"></div>
                 <div class="row mt-6 mx-auto " style="max-width: 1000px">
@@ -190,7 +190,8 @@
                                 <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                                     <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                         data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                        <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi Gourmet</h4>
+                                        <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi
+                                            Gourmet</h4>
                                         <span>El amor refinado por los buenos Sashimis</span>
                                     </div>
                                 </div>
@@ -209,7 +210,8 @@
                                 <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                                     <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                         data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                        <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi Infantil</h4>
+                                        <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi
+                                            Infantil</h4>
                                         <span>Los niños aprenden a dirigir, conocer valores, estimulan la creatividad y
                                             la conciencia
                                             cultural.</span>
@@ -230,7 +232,8 @@
                                 <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                                     <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                         data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                        <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi Regional</h4>
+                                        <h4 style="font-size:25px; color:#007e94; text-shadow:1px 1px 1px #fff;">Sashimi
+                                            Regional</h4>
                                         <span>La cateforía reyna del Sashimi Fest, donde se demuestra tus habilidades y
                                             creatividad.</span>
                                     </div>
@@ -250,7 +253,8 @@
                                 <div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
                                     <div class="portfolio-desc p-0 text-center" data-hover-animate="fadeInDownSmall"
                                         data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                        <h4 style="font-size:25px; color:#007e94;text-shadow:1px 1px 1px #fff;">Sashimi Estudiantes</h4>
+                                        <h4 style="font-size:25px; color:#007e94;text-shadow:1px 1px 1px #fff;">Sashimi
+                                            Estudiantes</h4>
                                         <span>Los estudiantes aprenden en tiempo real el proceso de crear al instante en
                                             un ambiente
                                             propicio.</span>
@@ -312,8 +316,7 @@
                             </h2>
                         </div>
                         <div class="col-md-3 align-items-center">
-                            <a href="/formulario" data-offset="140"
-                                data-easing="easeInOutExpo" data-speed="1250"
+                            <a href="/formulario" data-offset="140" data-easing="easeInOutExpo" data-speed="1250"
                                 class="button button-border button-circle button-light button-large my-0"
                                 style="position: relative; top: -3px">¡Regístrate!</a>
                         </div>
@@ -355,7 +358,75 @@
         </div>
     </div>
 
+    <div class="container mt-6" style="margin-bottom: 3rem;">
+        <div class="section m-0">
+            <div class="container">
+                <div class="mx-auto text-center" style="max-width: 900px">
+                    <h2 class="mb-0 fw-light ls-1">
+                     Conoce a nuestros patrocinadores
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div id="oc-clients" class="owl-carousel mt-5 image-carousel carousel-widget" data-margin="80" data-loop="true"
+            data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xs="2" data-items-sm="3"
+            data-items-md="4" data-items-lg="5" data-items-xl="6">
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/15.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/16.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/17.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/18.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/19.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/20.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/21.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/22.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/23.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/24.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/25.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/26.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/27.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/28.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/29.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/30.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/31.png" alt="Clients" /></a>
+            </div>
+        </div>
+    </div>
+
 </section>
+
 
 
 
