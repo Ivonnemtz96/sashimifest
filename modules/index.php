@@ -348,7 +348,10 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 px-0">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.952776567847!2d-109.69747702586966!3d23.06219281485071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5099faf3232f%3A0x54387b39802e1e2b!2sPlaza%20Mijares!5e0!3m2!1sen!2smx!4v1704385534291!5m2!1sen!2smx" width="100%" height="60%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.952776567847!2d-109.69747702586966!3d23.06219281485071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5099faf3232f%3A0x54387b39802e1e2b!2sPlaza%20Mijares!5e0!3m2!1sen!2smx!4v1704385534291!5m2!1sen!2smx"
+                        width="100%" height="60%" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
 
@@ -360,13 +363,13 @@
             <div class="container">
                 <div class="mx-auto text-center" style="max-width: 900px">
                     <h2 class="mb-0 fw-light ls-1">
-                     Conoce a nuestros patrocinadores
+                        Conoce a nuestros patrocinadores
                     </h2>
                 </div>
             </div>
         </div>
         <div id="oc-clients" class="owl-carousel mt-5 image-carousel carousel-widget" data-margin="80" data-loop="true"
-            data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xs="2" data-items-sm="3"
+            data-nav="false" data-autoplay="3000" data-pagi="false" data-items-xs="2" data-items-sm="3"
             data-items-md="4" data-items-lg="5" data-items-xl="6">
             <div class="oc-item">
                 <a href="#"><img src="images/clients/15.png" alt="Clients" /></a>
@@ -418,6 +421,37 @@
             </div>
             <div class="oc-item">
                 <a href="#"><img src="images/clients/31.png" alt="Clients" /></a>
+            </div>
+        </div>
+        <div id="oc-clients" class="owl-carousel mt-5 image-carousel carousel-widget" data-margin="80" data-loop="true"
+            data-nav="false" data-autoplay="3000" data-pagi="false" data-items-xs="2" data-items-sm="3"
+            data-items-md="4" data-items-lg="5" data-items-xl="6">
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/32.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/33.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/34.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/35.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/36.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/37.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/38.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/39.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/40.png" alt="Clients" /></a>
             </div>
         </div>
     </div>
