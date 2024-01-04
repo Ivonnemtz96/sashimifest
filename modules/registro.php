@@ -164,15 +164,13 @@
                                                             name="acuerdos" required value="En pleno uso de mis facultades mentales, me hago responsable
                                                             de mis datos y firma aquí expuestos, que he leído y
                                                             comprendido las reglas, cumpliré con mi participación el día
-                                                            sábado 16 de marzo de 2024, en el Poblado de La Playa,
-                                                            Marina de Puerto Los Cabos, presentándome a las 9:30 hrs.">
+                                                            sábado 16 de marzo de 2024, en en la Plaza Mijares, Centro, San José del Cabo, presentándome a las 9:30 hrs.">
                                                         <label class="form-check-label" for="acuerdos">
                                                             <b>Yo</b> En pleno uso de mis facultades mentales, me hago
                                                             responsable
                                                             de mis datos y firma aquí expuestos, que he leído y
                                                             comprendido las reglas, cumpliré con mi participación el día
-                                                            sábado 16 de marzo de 2024, en el Poblado de La Playa,
-                                                            Marina de Puerto Los Cabos, presentándome a las 9:30 hrs.
+                                                            sábado 16 de marzo de 2024, en la Plaza Mijares,Centro, San José del Cabo, presentándome a las 9:30 hrs.
                                                         </label>
                                                     </div>
                                                 </div>

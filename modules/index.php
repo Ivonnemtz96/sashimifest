@@ -333,7 +333,7 @@
                         <h3 class="font-body fw-normal ls-1">Ubicación del evento</h3>
                         <div style="font-size: 16px; line-height: 1.7">
                             <address style="line-height: 1.7">
-                                <strong>Poblado de La Playa</strong>
+                                <strong>Plaza Mijares</strong>
                             </address>
                             <div class="clear mt-4"></div>
                             <div class="clear mt-5"></div>
@@ -348,10 +348,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 px-0">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4536.931028313575!2d-109.67300013128585!3d23.06157809790149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af50ae99135021%3A0x94e378cbea93d95c!2sPublic%20Beach%20East%20Side!5e0!3m2!1ses-419!2smx!4v1693328212672!5m2!1ses-419!2smx"
-                        width="100%" height="60%" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.952776567847!2d-109.69747702586966!3d23.06219281485071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5099faf3232f%3A0x54387b39802e1e2b!2sPlaza%20Mijares!5e0!3m2!1sen!2smx!4v1704385534291!5m2!1sen!2smx" width="100%" height="60%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
 
