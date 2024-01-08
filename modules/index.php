@@ -372,6 +372,9 @@
             data-nav="false" data-autoplay="3000" data-pagi="false" data-items-xs="2" data-items-sm="3"
             data-items-md="4" data-items-lg="5" data-items-xl="6">
             <div class="oc-item">
+                <a href="#"><img src="images/clients/42.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
                 <a href="#"><img src="images/clients/15.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
@@ -426,6 +429,9 @@
         <div id="oc-clients" class="owl-carousel mt-5 image-carousel carousel-widget" data-margin="80" data-loop="true"
             data-nav="false" data-autoplay="3000" data-pagi="false" data-items-xs="2" data-items-sm="3"
             data-items-md="4" data-items-lg="5" data-items-xl="6">
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/43.png" alt="Clients" /></a>
+            </div>
             <div class="oc-item">
                 <a href="#"><img src="images/clients/41.png" alt="Clients" /></a>
             </div>
