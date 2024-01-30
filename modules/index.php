@@ -372,6 +372,9 @@
             data-nav="false" data-autoplay="3000" data-pagi="false" data-items-xs="2" data-items-sm="3"
             data-items-md="4" data-items-lg="5" data-items-xl="6">
             <div class="oc-item">
+                <a href="#"><img src="images/clients/44.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
                 <a href="#"><img src="images/clients/42.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
@@ -381,7 +384,7 @@
                 <a href="#"><img src="images/clients/16.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
-                <a href="#"><img src="images/clients/17.png" alt="Clients" /></a>
+                <a href="#"><img src="images/clients/47.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
                 <a href="#"><img src="images/clients/18.png" alt="Clients" /></a>
@@ -439,7 +442,13 @@
                 <a href="#"><img src="images/clients/32.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
+                <a href="#"><img src="images/clients/45.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
                 <a href="#"><img src="images/clients/33.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/46.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
                 <a href="#"><img src="images/clients/34.png" alt="Clients" /></a>

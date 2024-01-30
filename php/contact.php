@@ -15,7 +15,7 @@ Códigos de error
 1 -> Un campo vacío
 2 -> No se pudo enviar el mensaje, problema ajeno a validaciones
 3 -> No se seleccionó Captcha
-
+inscripciones@sashimifest.com
 * */
 
 $captcha_es_valido = validarReCaptcha($_REQUEST['g-recaptcha-response']);
@@ -59,24 +59,24 @@ function mandarError($codigo_de_error)
        //header('location: index.html?err=' .$codigo_de_error);
      
     if($codigo_de_error == "0"){
-        header('location: /?msj='. $codigo_de_error);
+    
+      header('location: /?msj='. $codigo_de_error);
+      require_once($_SERVER["DOCUMENT_ROOT"] . "/php/mailUsuario.php");
         exit;   
     }
         if($codigo_de_error == "1"){
             header('location: /?msj='. $codigo_de_error);
              exit;
-    exit;   
+
     }if($codigo_de_error == "2"){
         header('location: /?msj='. $codigo_de_error);
         exit;
-      
-    exit;   
+
     }
      if($codigo_de_error == "3"){
         header('location: /?msj=' . $codigo_de_error);
         exit;
-      
-    exit;   
+ 
     }
   else {
     echo json_encode(array('error' => $codigo_de_error));
@@ -314,6 +314,7 @@ class Correo
     $this->construirEmail();
     $this->construirCabeceras();
     $enviado = mail($this->para, $this->titulo, $this->cuerpo, $this->cabeceras);
+    // require_once($_SERVER["DOCUMENT_ROOT"] . "/php/mailUsuario.php");
     return $enviado;
   }
 }
