@@ -16,6 +16,16 @@ Códigos de error
 2 -> No se pudo enviar el mensaje, problema ajeno a validaciones
 3 -> No se seleccionó Captcha
 inscripciones@sashimifest.com
+
+
+$mail->SMTPDebug = 0  ;                                       //Enable verbose debug output
+    $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'mail.sashimifest.com';                   //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+    $mail->Username   = 'inscripciones@sashimifest.com';    //SMTP username
+    $mail->Password   = 'Sashimifest2024!';                        //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;                                  //Enable implicit TLS encryption
+    $mail->Port       = 587;
 * */
 
 $captcha_es_valido = validarReCaptcha($_REQUEST['g-recaptcha-response']);
@@ -60,7 +70,7 @@ function mandarError($codigo_de_error)
      
     if($codigo_de_error == "0"){
     
-      header('location: /?msj='. $codigo_de_error);
+      header('location: /confirmacion?msj='. $codigo_de_error);
       require_once($_SERVER["DOCUMENT_ROOT"] . "/php/mailUsuario.php");
         exit;   
     }

@@ -375,6 +375,9 @@
                 <a href="#"><img src="images/clients/44.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
+                <a href="#"><img src="images/clients/50.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
                 <a href="#"><img src="images/clients/42.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
@@ -436,6 +439,12 @@
                 <a href="#"><img src="images/clients/43.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
+                <a href="#"><img src="images/clients/49.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/51.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
                 <a href="#"><img src="images/clients/41.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
@@ -443,6 +452,9 @@
             </div>
             <div class="oc-item">
                 <a href="#"><img src="images/clients/45.png" alt="Clients" /></a>
+            </div>
+            <div class="oc-item">
+                <a href="#"><img src="images/clients/48.png" alt="Clients" /></a>
             </div>
             <div class="oc-item">
                 <a href="#"><img src="images/clients/33.png" alt="Clients" /></a>
@@ -471,6 +483,12 @@
             <div class="oc-item">
                 <a href="#"><img src="images/clients/40.png" alt="Clients" /></a>
             </div>
+        </div>
+        <div class="patrocinadores">
+            <iframe width="670" height="377" style="margin-top: 2rem;" src="https://www.youtube.com/embed/eYWmK_Pt4ps"
+                title="Sashimi Fest - Patrocinadores Oficiales" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
         </div>
     </div>
 
